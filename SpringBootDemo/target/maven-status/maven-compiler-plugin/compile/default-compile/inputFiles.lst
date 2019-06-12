@@ -1,0 +1,10 @@
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/api/rest/BookController.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/api/exception/BookNotFoundException.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/persistence/model/entity/Book.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/api/exception/BookIdMismatchException.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/api/rest/SimpleController.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/persistence/repo/BookRepository.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/BookstoreApplication.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/api/rest/RestExceptionHandler.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/config/SecurityConfig.java
+/Users/adrian/Documents/java/workspace_test/SpringBootDemo/src/main/java/ch/adisoftware/bookstore/persistence/model/dto/BookDTO.java

@@ -1,0 +1,15 @@
+---
+apiVersion: v1
+kind: List
+items:
+- apiVersion: image.openshift.io/v1
+  kind: ImageStream
+  metadata:
+    name: bookstore
+  spec:
+    tags:
+    - from:
+        kind: ImageStreamImage
+        name: bookstore@sha256:c1b79216c877f622ff749f058b11f98f16fed21c549737b328313b72dfe70be5
+        namespace: bookstore
+      name: latest

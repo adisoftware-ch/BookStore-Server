@@ -1,0 +1,10 @@
+ch/adisoftware/bookstore/BookstoreApplication.class
+ch/adisoftware/bookstore/api/rest/RestExceptionHandler.class
+ch/adisoftware/bookstore/persistence/repo/BookRepository.class
+ch/adisoftware/bookstore/api/rest/BookController.class
+ch/adisoftware/bookstore/api/exception/BookNotFoundException.class
+ch/adisoftware/bookstore/config/SecurityConfig.class
+ch/adisoftware/bookstore/persistence/model/entity/Book.class
+ch/adisoftware/bookstore/api/rest/SimpleController.class
+ch/adisoftware/bookstore/api/exception/BookIdMismatchException.class
+ch/adisoftware/bookstore/persistence/model/dto/BookDTO.class
